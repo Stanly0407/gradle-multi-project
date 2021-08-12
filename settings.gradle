@@ -1,0 +1,3 @@
+rootProject.name = 'multiproj'
+include ('core', 'api')
+
