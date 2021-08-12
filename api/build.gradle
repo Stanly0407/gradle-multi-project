@@ -1,0 +1,16 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+repositories {
+    mavenLocal()
+}
+
+dependencies {
+    implementation project(':core')
+}
+
+application {
+    mainClass = 'com.epam.demo.App'
+}
