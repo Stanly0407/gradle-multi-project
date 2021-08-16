@@ -20,7 +20,6 @@ apply plugin: "com.github.johnrengelman.shadow"
 group = 'com.epam.demo'
 version = '1.0'
 
-
 repositories {
     mavenLocal()
 }
