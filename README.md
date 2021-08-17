@@ -1,1 +1,1 @@
-"# gradle-multi-project" 
+"#
